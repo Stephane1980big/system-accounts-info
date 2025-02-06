@@ -1,4 +1,11 @@
-
+[{
+  "id": "polkadot",
+  "system_account": ["13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB"],
+  "tags":[{
+    "account": "1qnJN7FViy3HZaxZK9tGAA71zxHSBeUweirKqCaox4t8GT7",
+    "tag": "Binance Exchange",
+  }]
+}]
 # **Guide** 🚀
 
 Welcome to the Subscan system accounts info repository! This repository is used to collect and manage information submitted by other projects.
